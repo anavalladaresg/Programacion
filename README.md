@@ -1,14 +1,31 @@
 # Boletines Programación
 
-### [**1º Trimestre**](https://github.com/anavalladaresg/Programacion/tree/main/1Trimestre)
+### [**1º Trimestre**](1Trimestre)
 
-### [**2º Trimestre**]()
+### [**2º Trimestre**](2Trimestre)
 
 #
 
+## Segunda evaluación
+
+- [**Boletin 19**](2Trimestre/Boletin19/src)
+
+- **Ejercicios Extra**
+    - *Ejercicios Clases Abstractas*
+        - [Ejercicio 1](2Trimestre/ClaseAbstracta/src)
+        - [Ejercicio 2](2Trimestre/ClaseAbstracta2/src)
+    - *Ejercicios Arrays*
+        - [Ejercicio 1](2Trimestre/EjercicioArray/src)
+        - [Ejercicio 2](2Trimestre/EjercicioArray2/src)
+        - [Ejercicio 3](2Trimestre/EjercicioArray3/src)
+        - [Ejercicio 4](2Trimestre/EjercicioArray4/src)
+    - *Ejercicio Interfaces*
+        - [Ejercicio 1](2Trimestre/EjercicioInterfaces/src)
+        - [Ejercicio 2](2Trimestre/EjercicioInterfaces2/src)
+
 ## Primera evaluación
 
-- [Examen](1Trimestre/Examenes/Examen01/src/examen01)
+- [**Examen**](1Trimestre/Examenes/Examen01/src/examen01)
 
 - [**Boletin 2**](1Trimestre/Boletin02)
     - [Ejercicio 1](1Trimestre/Boletin02/Boletin2_1/src/boletin2_1)
@@ -69,7 +86,7 @@
     - [Ejercicio 1](1Trimestre/Boletin18/Boletin18_01/src)
     - [Ejercicio 2](1Trimestre/Boletin18/Boletin18_02/src/boletin18_02)
 
-- Boletines Extra
+- **Boletines Extra**
     - [Boletin Extra 1](1Trimestre/BoletinExtra01)
         - [Ejercicio 1](1Trimestre/BoletinExtra01/NomeDataNacemento/src/nomedatanacemento)
         - [Ejercicio 2](1Trimestre/BoletinExtra01/NotasProgramacion/src/notasprogramacion)
@@ -83,7 +100,7 @@
         - [Ejercicio 1](1Trimestre/BoletinExtraCondicionais/BoletinExtraCondicionais_01/src/boletinextracondicionais_01)
         - [Ejercicio 2](1Trimestre/BoletinExtraCondicionais/BoletinExtraCondicionais_02/src/boletinextracondicionais_02)
 
-- Ejercicios Repaso
+- **Ejercicios Repaso**
     - [Repaso Repetitivas](1Trimestre/BoletinRepasoRepetitivas/BoletinRepaso01_1/src/boletinrepaso_01)
     - [Concesionario](1Trimestre/Concesionario/Concesionario/src)
     - [Extras](1Trimestre/ExtrasMios)
