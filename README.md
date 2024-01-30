@@ -8,6 +8,8 @@
 
 ## Segunda evaluación
 
+- [**Boletin 20**](2Trimestre/Boletin20/src)
+
 - [**Boletin 19**](2Trimestre/Boletin19/src)
 
 - **Ejercicios Extra**
