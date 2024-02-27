@@ -1,29 +1,53 @@
 # Boletines Programación
 
-### [**1º Trimestre**](1Trimestre)
-
 ### [**2º Trimestre**](2Trimestre)
+
+### [**1º Trimestre**](1Trimestre)
 
 #
 
 ## Segunda evaluación
 
-- [**Boletin 20**](2Trimestre/Boletin20/src)
+- **Boletines**
+    - [**Boletin 26**](2Trimestre/Boletines/Boletin26/src)
 
-- [**Boletin 19**](2Trimestre/Boletin19/src)
+    - [**Boletin 24**](2Trimestre/Boletines/Boletin24/src)
+
+    - [**Boletin 23**](2Trimestre/Boletines/Boletin23/src)
+
+    - [**Boletin 22**](2Trimestre/Boletines/Boletin22/src)
+
+    - [**Boletin 21**](1Trimestre/Boletines/Boletin21)
+        - [Ejercicio 1](1Trimestre/Boletines/Boletin02/Boletin21_1/src)
+        - [Ejercicio 2](1Trimestre/Boletines/Boletin02/Boletin21_2/src)
+        - [Ejercicio 4](1Trimestre/Boletines/Boletin02/Boletin21_4/src)
+
+    - [**Boletin 20**](2Trimestre/Boletines/Boletin20/src)
+
+    - [**Boletin 19**](2Trimestre/Boletines/Boletin19/src)
 
 - **Ejercicios Extra**
-    - *Ejercicios Clases Abstractas*
-        - [Ejercicio 1](2Trimestre/ClaseAbstracta/src)
-        - [Ejercicio 2](2Trimestre/ClaseAbstracta2/src)
+    - *Ejercicios Genéricos*
+        - [Ejercicio 1](2Trimestre/EjerciciosClase/RepasoGenericos/Repaso_05/src)
+        - [Ejercicio 1](2Trimestre/EjerciciosClase/RepasoGenericos/Repaso_06/src)
     - *Ejercicios Arrays*
-        - [Ejercicio 1](2Trimestre/EjercicioArray/src)
-        - [Ejercicio 2](2Trimestre/EjercicioArray2/src)
-        - [Ejercicio 3](2Trimestre/EjercicioArray3/src)
-        - [Ejercicio 4](2Trimestre/EjercicioArray4/src)
-    - *Ejercicio Interfaces*
-        - [Ejercicio 1](2Trimestre/EjercicioInterfaces/src)
-        - [Ejercicio 2](2Trimestre/EjercicioInterfaces2/src)
+        - [Ejercicio 1](2Trimestre/EjerciciosClase/EjercicioLista/src)
+    - *Ejercicios Lectura y Escritura de Ficheros*
+        - [Ejercicio 1](2Trimestre/EjerciciosClase/ArchivosLecturaEscritura/src)
+        - [Ejercicio 2](2Trimestre/EjerciciosClase/LecturaFicheros/src)
+        - [Ejercicio 2](2Trimestre/EjerciciosClase/ListaDeTareas/src)
+
+    - *Ejercicios Clases Abstractas*
+        - [Ejercicio 1](2Trimestre/EjerciciosClase/ClaseAbstracta/src)
+        - [Ejercicio 2](2Trimestre/EjerciciosClase/ClaseAbstracta2/src)
+    - *Ejercicios Arrays*
+        - [Ejercicio 1](2Trimestre/EjerciciosClase/EjercicioArray/src)
+        - [Ejercicio 2](2Trimestre/EjerciciosClase/EjercicioArray2/src)
+        - [Ejercicio 3](2Trimestre/EjerciciosClase/EjercicioArray3/src)
+        - [Ejercicio 4](2Trimestre/EjerciciosClase/EjercicioArray4/src)
+    - *Ejercicios Interfaces*
+        - [Ejercicio 1](2Trimestre/EjerciciosClase/EjercicioInterfaces/src)
+        - [Ejercicio 2](2Trimestre/EjerciciosClase/EjercicioInterfaces2/src)
 
 ## Primera evaluación
 
