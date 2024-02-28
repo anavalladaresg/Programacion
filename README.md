@@ -24,6 +24,8 @@
 
     - [**Boletin 20**](2Trimestre/Boletines/Boletin20/src)
 
+    - [**Boletin 19**](2Trimestre/Boletines/Boletin19_/src)
+
     - [**Boletin 19**](2Trimestre/Boletines/Boletin19/src)
 
 - **Ejercicios Extra**
