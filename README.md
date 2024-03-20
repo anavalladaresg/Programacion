@@ -9,6 +9,20 @@
 ## Segunda evaluación
 
 - **Boletines**
+
+    - *Ejercicios de Repaso*
+        - [**Boletin 29**](2Trimestre/Boletines/Boletin29)
+            - [Ejercicio 6](2Trimestre/Boletines/Boletin29/Boletin29_06/src)
+            - [Ejercicio 5](2Trimestre/Boletines/Boletin29/Boletin29_05/src)
+            - [Ejercicio 4](2Trimestre/Boletines/Boletin29/Boletin29_04/src)
+            - [Ejercicio 3](2Trimestre/Boletines/Boletin29/Boletin29_03/src)
+            - [Ejercicio 2](2Trimestre/Boletines/Boletin29/Boletin29_02/src)
+            - [Ejercicio 1](2Trimestre/Boletines/Boletin29/Boletin29_01/src)
+    
+      - *Boletin 28 omitido*
+  
+    - [**Boletin 26**](2Trimestre/Boletines/Boletin27/src)
+  
     - [**Boletin 26**](2Trimestre/Boletines/Boletin26/src)
 
     - [**Boletin 24**](2Trimestre/Boletines/Boletin24/src)
