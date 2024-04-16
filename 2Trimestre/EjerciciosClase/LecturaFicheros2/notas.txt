@@ -1,0 +1,3 @@
+Java es divertido
+La práctica hace al maestro
+Persistencia es clave para el éxito
