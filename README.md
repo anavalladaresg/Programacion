@@ -11,7 +11,7 @@
 ## Tercera evaluación
 
 - **Boletines**
-    - [Boletin 30]](3Trimestre/Boletines/Boletin30/src)
+    - [Boletin 30](3Trimestre/Boletines/Boletin30/src)
 
 - **Ejercicios Extra**
 
